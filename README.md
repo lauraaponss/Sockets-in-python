@@ -77,7 +77,3 @@ Client shutdown complete.
 ## 📚 Course Information
 
 Developed for the Design of Telematic Systems course at Universidad Carlos III de Madrid (UC3M).
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
