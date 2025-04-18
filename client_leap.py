@@ -4,8 +4,7 @@ UDP Client for Leap Year Checker
 Design of Telematic Systems, UC3M
 
 This client program sends a year to the server and receives whether it's a leap year.
-Authors:
-	Lucas Kohley Aguilar - 100497018
+Author:
 	Laura Pons García - 100496761
 """
 
